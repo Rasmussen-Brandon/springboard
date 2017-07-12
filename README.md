@@ -8,9 +8,9 @@ You can kill the process with `Ctrl + C`.
 ### _ Additional Notes for Windows Users _
 If you are using a docker toolbox for your Windows version and the Docker quickstart terminal, then the default IP address will be automatically assigned, which you will need to change the localhost IP address to: 
 
-![docker_term](https://gitlab.com/lzachmann/ee-springboard/tree/master/assests/docker_qs_terminal.png) 
+![docker_term](https://gitlab.com/lzachmann/ee-springboard/tree/master/assets/docker_qs_terminal.png) 
 
-![deploy_img](https://gitlab.com/lzachmann/ee-springboard/tree/master/assests/deploy_img.png)
+![deploy_img](https://gitlab.com/lzachmann/ee-springboard/tree/master/assets/deploy_img.png)
 
 Then execute the ./deploy.sh command as instructed above. 
 
