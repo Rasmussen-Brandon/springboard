@@ -5,8 +5,8 @@ We recommend forking and then cloning the repo. `cd` into the directory you crea
 
 You can kill the process with `Ctrl + C`.
 
-### _ Additional Notes for Windows Users _
-If you are using a docker toolbox for your Windows version and the Docker quickstart terminal, then the default IP address will be automatically assigned, which you will need to change the localhost IP address to: 
+### _Additional Notes for Windows Users_
+If you are using a docker toolbox for your Windows version and the Docker quickstart terminal, then the default IP address will be automatically assigned, which you will need to change the localhost IP address to (your IP address will be different): 
 
 ![docker_term](https://gitlab.com/lzachmann/ee-springboard/raw/master/assets/docker_qs_terminal.png) 
 
