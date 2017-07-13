@@ -1,3 +1,4 @@
 .DS_Store
 datalab/.config/**
 .ipynb_checkpoints
+output
