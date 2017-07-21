@@ -19,3 +19,4 @@ Then execute the ./deploy.sh command as instructed above.
 
 ### Other resources
 To avoid bloat, we've removed the Google Cloud Datalab samples and documentation that came with the image originally. We'd encourage you to check out their examples by pulling any interesting or relevant notebooks into your fork individually: <https://github.com/googledatalab/notebooks>.
+A good resource for switching from Javascript to Python API is provided here: <https://github.com/rutgerhofste/EEPythonNotes/blob/master/README.md>
