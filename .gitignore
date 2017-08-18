@@ -3,4 +3,4 @@ output
 datalab/.config/**
 datalab/.config/.last_update_check.json
 datalab/.config/settings.json
-.ipynb_checkpoints/
+*.ipynb_checkpoints

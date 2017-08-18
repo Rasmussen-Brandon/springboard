@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=gcr.io/earthengine-project/datalab-ee:latest
+IMAGE=cspinc/ee-stacks:rpy2
 docker exec -it \
     $(docker ps -a --filter=ancestor=$IMAGE --format "{{.Names}}") \
     /bin/bash \
